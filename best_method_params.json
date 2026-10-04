@@ -1,0 +1,17 @@
+{
+  "input_method": "hybrid",
+  "canny_low": 50,
+  "canny_high": 150,
+  "blur_kernel": [
+    5,
+    5
+  ],
+  "dropout": 0.5,
+  "layer_sizes": [
+    512,
+    256,
+    128
+  ],
+  "use_batchnorm": true,
+  "use_augmentation": true
+}
