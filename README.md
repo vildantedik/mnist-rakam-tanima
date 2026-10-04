@@ -116,6 +116,4 @@ python method_test.py      # girdi yöntemi, BatchNorm, veri artırma → best_m
 
 [MNIST](http://yann.lecun.com/exdb/mnist/) veri seti, Keras üzerinden indirilir ve depoya dahil değildir.
 
-## Not
 
-Bu proje bir öğrenme projesidir.
